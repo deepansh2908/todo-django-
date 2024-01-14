@@ -1,2 +1,7 @@
 venv
-todo/todo/settings.py
+# todo/todo/settings.py
+todo/todo/__pycache__
+todo/tasks/__pycache__
+todo/tasks/migrations
+db.sqlite3
+todo/.env
