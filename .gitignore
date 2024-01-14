@@ -1,7 +1,8 @@
+
 venv
 # todo/todo/settings.py
-todo/todo/__pycache__
-todo/tasks/__pycache__
-todo/tasks/migrations
+todo/__pycache__
+tasks/__pycache__
+tasks/migrations
 db.sqlite3
-todo/.env
+.env
